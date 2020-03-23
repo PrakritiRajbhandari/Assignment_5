@@ -53,8 +53,6 @@ $(document).ready(function() {
 // saves to local storage
 // onclick function to listen for user clicks
 $(document).on("click", "button", function() {
-  alert("saved");
-
   $('input[type="text"]').each(function() {
     var id = $(this).attr("id");
     var value = $(this).val();
