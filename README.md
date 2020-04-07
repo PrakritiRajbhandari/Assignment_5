@@ -8,6 +8,7 @@ Function of Work Day Scheduler:
 1. Update your task every hour.
 
 Deployed application link: https://prakritirajbhandari.github.io/Day-Planner/ 
+
 https://github.com/PrakritiRajbhandari/Day-Planner
 
 Screenshot:
