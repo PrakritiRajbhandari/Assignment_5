@@ -1,4 +1,4 @@
-# Assignment_5 Work Day Scheduler
+Work Day Scheduler
 
 This is a Work Day Scheduler. This is build using HTML,CSS and jQuery.
 You can add your daily work.
